@@ -1,0 +1,16 @@
+[
+    {
+        "id": "1907ca25b59d94a1000c29789174",
+        "group_name": "Test_UG",
+        "description": "",
+        "timeframes": [
+            "allthetime"
+        ],
+        "users": [
+            "test"
+        ],
+        "profile": "user",
+        "restrictions": [],
+        "url": "https://192.168.3.167/api/usergroups/1907ca25b59d94a1000c29789174"
+    }
+]
